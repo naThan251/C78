@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(45deg, #1100ff, #8000ff);
+    background-attachment: fixed;
+  padding: none;
+  margin: none;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 50px;
+}
+
+p {
+  font-family: monospace;
+  font-size: 15px;
+}
+
+#button {
+  width: 200px;
+  height: 40px;
+  background:linear-gradient(45deg, yellow, orange);
+}
